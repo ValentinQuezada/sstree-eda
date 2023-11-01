@@ -1,0 +1,11 @@
+"D:\Descargas\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\Documentos\UTEC-Programacion\EstructurasDatosAvanzados\lab4\code-new
+CMake Error at D:/Descargas/CLion 2021.2.1/bin/cmake/win/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
+  Could NOT find CURL (missing: CURL_LIBRARY CURL_INCLUDE_DIR)
+Call Stack (most recent call first):
+  D:/Descargas/CLion 2021.2.1/bin/cmake/win/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake:594 (_FPHSA_FAILURE_MESSAGE)
+  D:/Descargas/CLion 2021.2.1/bin/cmake/win/share/cmake-3.20/Modules/FindCURL.cmake:181 (find_package_handle_standard_args)
+  CMakeLists.txt:65 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/CMakeFiles/CMakeOutput.log".

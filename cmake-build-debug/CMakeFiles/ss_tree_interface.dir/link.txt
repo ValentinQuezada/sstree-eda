@@ -1,0 +1,3 @@
+"D:\Descargas\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ss_tree_interface.dir/objects.a
+"D:\Descargas\MinGW 7.3.0 - 64bit\mingw64\bin\ar.exe" cr CMakeFiles\ss_tree_interface.dir/objects.a @CMakeFiles\ss_tree_interface.dir\objects1.rsp
+"D:\Descargas\MinGW 7.3.0 - 64bit\mingw64\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\ss_tree_interface.dir/objects.a -Wl,--no-whole-archive -o ss_tree_interface.exe -Wl,--out-implib,libss_tree_interface.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ss_tree_interface.dir\linklibs.rsp

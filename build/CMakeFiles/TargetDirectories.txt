@@ -1,0 +1,14 @@
+/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/build/CMakeFiles/ss_tree_test.dir
+/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/build/CMakeFiles/ss_tree_indexing.dir
+/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/build/CMakeFiles/ss_tree_interface.dir
+/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/build/CMakeFiles/compile_test.dir
+/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/build/CMakeFiles/compile_indexing.dir
+/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/build/CMakeFiles/run_test.dir
+/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/build/CMakeFiles/run_indexing.dir
+/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/build/CMakeFiles/test.dir
+/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/build/CMakeFiles/indexing.dir
+/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/build/CMakeFiles/compile_interface.dir
+/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/build/CMakeFiles/run_interface.dir
+/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/build/CMakeFiles/interface.dir
+/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/build/CMakeFiles/edit_cache.dir
+/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/build/CMakeFiles/rebuild_cache.dir

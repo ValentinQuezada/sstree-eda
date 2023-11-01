@@ -1,0 +1,23 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/tinyfiledialogs.c" "CMakeFiles/ss_tree_interface.dir/tinyfiledialogs.c.o" "gcc" "CMakeFiles/ss_tree_interface.dir/tinyfiledialogs.c.o.d"
+  "/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/CortexAPI.cpp" "CMakeFiles/ss_tree_interface.dir/CortexAPI.cpp.o" "gcc" "CMakeFiles/ss_tree_interface.dir/CortexAPI.cpp.o.d"
+  "/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/Interface.cpp" "CMakeFiles/ss_tree_interface.dir/Interface.cpp.o" "gcc" "CMakeFiles/ss_tree_interface.dir/Interface.cpp.o.d"
+  "/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/SStree.cpp" "CMakeFiles/ss_tree_interface.dir/SStree.cpp.o" "gcc" "CMakeFiles/ss_tree_interface.dir/SStree.cpp.o.d"
+  "/mnt/d/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/indexing.cpp" "CMakeFiles/ss_tree_interface.dir/indexing.cpp.o" "gcc" "CMakeFiles/ss_tree_interface.dir/indexing.cpp.o.d"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

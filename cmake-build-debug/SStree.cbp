@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SStree"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\Descargas\;CMake Files\..\..\..\..\..\Descargas\SFML\;CMake Files\..\..\..\..\..\Descargas\SFML\SFML-2.5.1\;CMake Files\..\..\..\..\..\Descargas\SFML\SFML-2.5.1\lib\;CMake Files\..\..\..\..\..\Descargas\SFML\SFML-2.5.1\lib\cmake\;CMake Files\..\..\..\..\..\Descargas\SFML\SFML-2.5.1\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ss_tree_indexing">
+				<Option output="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/ss_tree_indexing.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 ss_tree_indexing"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ss_tree_indexing/fast">
+				<Option output="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/ss_tree_indexing.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 ss_tree_indexing/fast"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ss_tree_test">
+				<Option output="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/ss_tree_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 ss_tree_test"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ss_tree_test/fast">
+				<Option output="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/ss_tree_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 ss_tree_test/fast"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ss_tree_interface">
+				<Option output="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/ss_tree_interface.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new"/>
+					<Add directory="D:/Descargas/SFML/SFML-2.5.1/include"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 ss_tree_interface"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ss_tree_interface/fast">
+				<Option output="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/ss_tree_interface.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new"/>
+					<Add directory="D:/Descargas/SFML/SFML-2.5.1/include"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 ss_tree_interface/fast"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="compile_indexing">
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 compile_indexing"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="compile_test">
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 compile_test"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="run_indexing">
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 run_indexing"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="run_test">
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 run_test"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="indexing">
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 indexing"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="compile_interface">
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 compile_interface"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="run_interface">
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 run_interface"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="interface">
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 interface"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Descargas/MinGW 7.3.0 - 64bit/mingw64/bin/mingw32-make.exe -f &quot;D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/CortexAPI.cpp">
+			<Option target="ss_tree_interface"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/CortexAPI.h">
+			<Option target="ss_tree_interface"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/Interface.cpp">
+			<Option target="ss_tree_interface"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/Point.h">
+			<Option target="ss_tree_indexing"/>
+			<Option target="ss_tree_test"/>
+			<Option target="ss_tree_interface"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/SStree.cpp">
+			<Option target="ss_tree_indexing"/>
+			<Option target="ss_tree_test"/>
+			<Option target="ss_tree_interface"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/SStree.h">
+			<Option target="ss_tree_indexing"/>
+			<Option target="ss_tree_test"/>
+			<Option target="ss_tree_interface"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/indexing.cpp">
+			<Option target="ss_tree_indexing"/>
+			<Option target="ss_tree_interface"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/main.cpp">
+			<Option target="ss_tree_test"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/params.h">
+			<Option target="ss_tree_indexing"/>
+			<Option target="ss_tree_test"/>
+			<Option target="ss_tree_interface"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/tinyfiledialogs.c">
+			<Option target="ss_tree_interface"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/tinyfiledialogs.h">
+			<Option target="ss_tree_interface"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/../../../../../Descargas/SFML/SFML-2.5.1/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Descargas\SFML\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/../../../../../Descargas/SFML/SFML-2.5.1/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Descargas\SFML\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/../../../../../Descargas/SFML/SFML-2.5.1/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Descargas\SFML\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/../../../../../Descargas/SFML/SFML-2.5.1/lib/cmake/SFML/SFMLStaticTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Descargas\SFML\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/../../../../../Descargas/SFML/SFML-2.5.1/lib/cmake/SFML/SFMLStaticTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Descargas\SFML\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Documentos/UTEC-Programacion/EstructurasDatosAvanzados/lab4/code-new/../../../../../Descargas/SFML/SFML-2.5.1/lib/cmake/SFML/SFMLStaticTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Descargas\SFML\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
